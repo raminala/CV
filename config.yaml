@@ -128,7 +128,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/assets/resume.pdf"
+      url: "/assets/3.docx"
       download: true
       newPage: false
     socialLinks:
