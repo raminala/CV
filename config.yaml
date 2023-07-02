@@ -120,7 +120,7 @@ params:
     intro: "Hi, my name is"
     title: "Ramin Ala."
     subtitle: "I am an electrical engineer"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect."
     image: /images/ramin.svg
     bottomImage:
       enable: true
