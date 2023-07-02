@@ -135,11 +135,11 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/raminala
-        - icon: fab fa-twitter
-          url: https://example.com
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/ramin-ala-electrical/
       customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        - icon: /fav1.png
+          url: "https://scholar.google.com/citations?user=A3Pll8gAAAAJ&hl=en"
 
   # About
   about:
@@ -147,7 +147,7 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am a Eletrical engieer with a passion for data science. I have a background in RF and Microwave engineering, and I have a strong interest in the intersection of technologies. I am currently pursuing my PhD at [University of New Brunswick](unb.ca) in Fredericton, Canada. 
 
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
