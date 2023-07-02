@@ -147,7 +147,7 @@ params:
     title: "About Me"
     image: "/images/ramin.jpg"
     content: |-
-      I am an Eletrical Engieer with a passion for data science. I have a background in RF and Microwave engineering, and I have a strong interest in the intersection of technologies. I am currently pursuing my PhD at [University of New Brunswick](unb.ca) in Fredericton, Canada. 
+      I am an Eletrical Engieer with a passion for data science. I have a background in RF and Microwave engineering, and I have a strong interest in the intersection of technologies. I am currently pursuing my PhD at [University of New Brunswick](https://www.unb.ca/) in Fredericton, Canada. 
 
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
@@ -167,7 +167,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Senior Software Developer"
-        company: "Facebook"
+        company: "Iranian Space Research Center"
         companyUrl: "https://example.com"
         date: "Jan 2022 - present"
         featuredLink:
@@ -238,13 +238,22 @@ params:
           url: "https://www.unb.ca/"
         date: "2019 - 2023"
         GPA: "4.2 out of 4.3"
+        content: |-
+          I Publiced one journal paper in [IEEE Transactions on Radar Systems](https://ieeexplore.ieee.org/document/10153079). I also had two conference publications in [2020](https://ieeexplore.ieee.org/abstract/document/9114545) and [2021](https://ieeexplore.ieee.org/abstract/document/9518747).
+          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+          - Face mask detection using a single convolutional neural network.
+
+        
+        
+        
+        
         
       - title: "M.Sc. in Telecommunication Engineering"
         school:
           name: "K. N. Toosi University of Technology"
           url: "https://en.kntu.ac.ir/"
         date: "2007 - 2010"
-        GPA: "3.9 out of 5.0"
+        #GPA: "3.9 out of 5.0"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
@@ -342,7 +351,7 @@ params:
     enable: true
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    email: ramin.ala@gmail.com
     btnName: Mail me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
