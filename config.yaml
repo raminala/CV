@@ -262,7 +262,7 @@ params:
         date: "2007 - 2010"
         #GPA: "3.9 out of 5.0"
         content: |-
-          I had one conference publications in [*2010 Loughborough Antennas and Propagation Conference*](https://ieeexplore.ieee.org/abstract/document/5666235).
+          I had one conference publications in [*2010 Loughborough Antennas and Propagation Conference*](https://ieeexplore.ieee.org/abstract/document/5666235){target="_blank"}.
 
           
       - title: "B.Sc. in Electrical Engineering"
