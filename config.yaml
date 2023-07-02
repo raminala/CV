@@ -141,7 +141,7 @@ params:
         - icon: /fav1.png
           url: "https://scholar.google.com/citations?user=A3Pll8gAAAAJ&hl=en"
 
-  # About
+  # About %ramin.jpg
   about:
     enable: true
     title: "About Me"
