@@ -235,7 +235,7 @@ params:
       - title: "Ph.D."
         school:
           name: "University of New Brunswick"
-          url: "https://example.org"
+          url: "https://www.unb.ca/"
         date: "2019 - 2023"
         GPA: "4.2 out of 4.3"
         content: |-
