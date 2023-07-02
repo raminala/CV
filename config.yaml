@@ -129,8 +129,8 @@ params:
       enable: true
       name: "Resume"
       url: "/assets/resume.pdf"
-      download: false
-      newPage: true
+      download: true
+      newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
