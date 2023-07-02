@@ -141,13 +141,13 @@ params:
         - icon: /fav1.png
           url: "https://scholar.google.com/citations?user=A3Pll8gAAAAJ&hl=en"
 
-  # About %ramin.jpg
+  # About %me.png
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/ramin.jpg"
     content: |-
-      I am a Eletrical engieer with a passion for data science. I have a background in RF and Microwave engineering, and I have a strong interest in the intersection of technologies. I am currently pursuing my PhD at [University of New Brunswick](unb.ca) in Fredericton, Canada. 
+      I am an Eletrical Engieer with a passion for data science. I have a background in RF and Microwave engineering, and I have a strong interest in the intersection of technologies. I am currently pursuing my PhD at [University of New Brunswick](unb.ca) in Fredericton, Canada. 
 
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
