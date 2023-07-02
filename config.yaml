@@ -239,10 +239,17 @@ params:
         date: "2019 - 2023"
         GPA: "4.2 out of 4.3"
         content: |-
-          I Publiced one journal paper in [*IEEE Transactions on Radar Systems*](https://ieeexplore.ieee.org/document/10153079). I also had two conference publications in [2020](https://ieeexplore.ieee.org/abstract/document/9114545) and [2021](https://ieeexplore.ieee.org/abstract/document/9518747).
+          **Thesis**: Efficient and Ultra Low Mass Harmonic Radar Transponders for Insect Tracking Applications.
          
-          I Publiced one journal paper in [*IEEE Transactions on Radar Systems*](https://ieeexplore.ieee.org/document/10153079). I also had two conference publications in [2020](https://ieeexplore.ieee.org/abstract/document/9114545) and [2021](https://ieeexplore.ieee.org/abstract/document/9518747).
-
+         I publiced one journal paper in [*IEEE Transactions on Radar Systems*](https://ieeexplore.ieee.org/document/10153079). I also had two conference publications in [2020](https://ieeexplore.ieee.org/abstract/document/9114545) and [2021](https://ieeexplore.ieee.org/abstract/document/9518747).
+          
+          Teaching Assiatant
+            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+        featuredLink:
+          enable: FALSE
+          name: "My academic record"
+          url: "https://example.com"
         
         
       - title: "M.Sc. in Telecommunication Engineering"
@@ -252,17 +259,11 @@ params:
         date: "2007 - 2010"
         #GPA: "3.9 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+          I publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
           - Face mask detection using a single convolutional neural network.
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: FALSE
-          name: "My academic record"
-          url: "https://example.com"
+          
       - title: "B.Sc. in Electrical Engineering"
         school:
           name: "University of Isfahan"
