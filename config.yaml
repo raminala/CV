@@ -241,11 +241,14 @@ params:
         content: |-
           **Thesis**: Efficient and Ultra Low Mass Harmonic Radar Transponders for Insect Tracking Applications.
          
-         I publiced one journal paper in [*IEEE Transactions on Radar Systems*](https://ieeexplore.ieee.org/document/10153079). I also had two conference publications in [2020](https://ieeexplore.ieee.org/abstract/document/9114545) and [2021](https://ieeexplore.ieee.org/abstract/document/9518747).
+          I publiced one journal paper in [*IEEE Transactions on Radar Systems*](https://ieeexplore.ieee.org/document/10153079). I also had two conference publications in [*2020 IEEE Radar Conference*](https://ieeexplore.ieee.org/abstract/document/9114545) and in [*2021 IEEE International Symposium on Antenna Technology and Applied Electromagnetics*](https://ieeexplore.ieee.org/abstract/document/9518747).
           
-          Teaching Assiatant
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Teaching Assiatant:
+            - Electricity and Magnetism
+            - Electronic I
+            - Electronic II
+            - Electromagnetics I
+            - Simulation and Engineering Analysis
         featuredLink:
           enable: FALSE
           name: "My academic record"
