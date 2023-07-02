@@ -262,9 +262,7 @@ params:
         date: "2007 - 2010"
         #GPA: "3.9 out of 5.0"
         content: |-
-          I publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          I had one conference publications in [*2010 Loughborough Antennas and Propagation Conference*](https://ieeexplore.ieee.org/abstract/document/5666235).
 
           
       - title: "B.Sc. in Electrical Engineering"
