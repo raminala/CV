@@ -128,7 +128,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/static/images/resume.pdf"
+      url: "static/images/resume.pdf"
       download: true
       newPage: false
     socialLinks:
