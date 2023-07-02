@@ -147,9 +147,9 @@ params:
     title: "About Me"
     image: "/images/ramin.jpg"
     content: |-
-      I am an Eletrical Engieer with a passion for data science. I have a background in RF and Microwave engineering, and I have a strong interest in the intersection of technologies. I am currently pursuing my PhD at [University of New Brunswick](https://www.unb.ca/) in Fredericton, Canada. 
+      I am an Eletrical Engieer with a passion for data science. I have a background in RF and Microwave engineering, and I have a strong interest in the intersection of technologies. I am currently pursuing my Ph.D. at [University of New Brunswick](https://www.unb.ca/) in Fredericton, Canada. 
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am currently preparing to defend my Ph.D. Thesis.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
