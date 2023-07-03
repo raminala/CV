@@ -168,8 +168,8 @@ params:
     # title: "Custom Name"
     items:
       - job: "Senior RF Designer"
-        company: "Iranian Space Research Center"
-        companyUrl: "https://example.com"
+        company: Iranian Space Research Center
+      #  companyUrl: ""
         date: "2016 - 2018"
         featuredLink:
           enable: false
