@@ -188,25 +188,25 @@ params:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          In Ertebatat Baregheh Pardis ... .
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - duty 1.
+          - duty 2.
 
       - job: "RF and Microwave Engineer"
         company: "OTS"
-        companyUrl: "https://example.com"
+      #   companyUrl: "https://example.com"
         date: "2010 - 2014"
         info:
           enable: false
         featuredLink:
           enable: false
-          url: "https://example.com"
+          # url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          I ....
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - duty 1.
+          - duty 2.
 
     
 
