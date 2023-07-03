@@ -160,8 +160,9 @@ params:
         - "React"
         - "Node"
         - "Express"
-
+        
   # Experience
+
   experience:
     enable: true
     # title: "Custom Name"
