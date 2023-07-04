@@ -158,7 +158,10 @@ params:
         - "PathWave Advanced Design System (ADS)"
         - "Altium Designer"
         - "Ansys HFSS"
-        - "R Programming language"
+        - "R (Programming language)"
+        - "LaTaX"
+        - "MATLAB"
+        
        
         
   # Experience
