@@ -152,14 +152,14 @@ params:
       I am currently preparing to defend my Ph.D. Thesis.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are a few Softeare I've been working with:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "computer simulation technology (CST)"
+        - "PathWave Advanced Design System (ADS)"
+        - "Altium Designer"
+        - "Ansys HFSS"
+        - "R Programming language"
+       
         
   # Experience
 
@@ -262,7 +262,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
