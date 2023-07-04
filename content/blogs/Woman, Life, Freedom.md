@@ -19,3 +19,4 @@ It is crucial to maintain a clear distinction between personal beliefs and profe
 ## Why do people engage in protests?
 
 They seek a normal life, just like people everywhere in the world.
+
