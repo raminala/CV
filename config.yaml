@@ -170,7 +170,7 @@ params:
       - job: "Senior RF Designer"
         company: "Iranian Space Research Center"
       #  companyUrl: ""
-        date: "2016 - 2018"
+        date: "2016 to 2018"
         featuredLink:
           enable: false
          # name: "View the project"
@@ -180,14 +180,14 @@ params:
       - job: "Senior RF Designer"
         company: "Ertebatat Baregheh Pardis"
         companyUrl: "https://www.linkedin.com/company/baregheh/?originalSubdomain=ir"
-        date: "2014 - 2016"
+        date: "2014 to 2016"
         featuredLink:
           enable: false
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
+        #  content: I worked as a software developer for more than one year in Amazon.
+          content: 
           In Ertebatat Baregheh Pardis ... .
 
           - duty 1.
@@ -196,9 +196,9 @@ params:
       - job: "RF and Microwave Engineer"
         company: "OTS"
       #   companyUrl: "https://example.com"
-        date: "2010 - 2014"
+        date: "2010 to 2014"
         info:
-          enable: false
+          enable: true
         featuredLink:
           enable: false
           # url: "https://example.com"
