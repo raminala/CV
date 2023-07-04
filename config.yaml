@@ -179,16 +179,15 @@ params:
 
       - job: "Senior RF Designer"
         company: "Ertebatat Baregheh Pardis"
-        companyUrl: "https://www.linkedin.com/company/baregheh/?originalSubdomain=ir"
+       # companyUrl: "https://www.linkedin.com/company/baregheh/?originalSubdomain=ir"
         date: "2014 to 2016"
         featuredLink:
           enable: false
           url: "https://example.com"
         info:
           enable: true
-        #  content: I worked as a software developer for more than one year in Amazon.
-          content: 
-          In Ertebatat Baregheh Pardis ... .
+        content: |
+          In Ertebatat Baregheh Pardis I ...
 
           - duty 1.
           - duty 2.
@@ -197,13 +196,13 @@ params:
         company: "OTS"
       #   companyUrl: "https://example.com"
         date: "2010 to 2014"
-        info:
-          enable: true
         featuredLink:
           enable: false
-          # url: "https://example.com"
+          url: "https://example.com"
+        info:
+          enable: true
         content: |
-          I ....
+          In OTS I ...
 
           - duty 1.
           - duty 2.
