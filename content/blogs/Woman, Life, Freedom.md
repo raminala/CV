@@ -4,8 +4,7 @@ draft: false
 image: /images/wlf.jpg
 tags:
 - responsibility
-- Sample
-- example
+- personal
 title: "Woman, Life, Freedom"
 output: html_document
 date: "2023-07-04"
@@ -13,31 +12,10 @@ date: "2023-07-04"
 
 
 
-## R Markdown
+## Why include a political post in a professional blog?
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+It is crucial to maintain a clear distinction between personal beliefs and professional content in a professional blog. This website serves as my CV and is not intended for presenting political viewpoints. However, it is important to acknowledge that the current situation in my country has greatly impacted the lives of its people. Although I am not currently living there, it has affected me emotionally. I sincerely hope for better days for all people around the world, including those in Iran.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Why do people engage in protests?
 
-
-```r
-summary(cars)
-```
-
-```
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-<img src="/blogs/Woman, Life, Freedom_files/figure-html/pressure-1.png" width="672" />
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+They seek a normal life, just like people everywhere in the world.
