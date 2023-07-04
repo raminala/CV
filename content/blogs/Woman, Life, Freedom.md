@@ -1,4 +1,11 @@
 ---
+author: Ramin
+draft: false
+image: /images/wlf.jpg
+tags:
+- responsibility
+- Sample
+- example
 title: "Woman, Life, Freedom"
 output: html_document
 date: "2023-07-04"
