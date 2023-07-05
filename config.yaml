@@ -154,7 +154,7 @@ params:
       enable: true
       title: "Here are a few Softeare I've been working with:"
       items:
-        - "computer simulation technology (CST)"
+        - "Computer Simulation Technology (CST)"
         - "PathWave Advanced Design System (ADS)"
         - "Altium Designer"
         - "Ansys HFSS"
