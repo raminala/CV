@@ -1,6 +1,6 @@
 baseURL: "https://ramin-ala.netlify.app/"
 languageCode: "en-us"
-title: "Professional blog"
+title: "Ramin Ala"
 theme: "hugo-profile"
 
 outputs:
