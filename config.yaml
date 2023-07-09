@@ -121,7 +121,7 @@ params:
     intro: "Hi, my name is"
     title: "Ramin Ala."
     subtitle: "I am an electrical engineer"
-    content: "As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect.As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect.As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect.As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect.As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect.As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect.As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect.As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect.As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect.As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect.As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect.As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect."
+    content: "As a passionate Engineer, I tend to make use of modern technologies to design that functions perfect."
     image: /images/ramin.svg
     bottomImage:
       enable: true
