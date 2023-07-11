@@ -306,8 +306,8 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: Ultra Low mass harmonic radar Transponder
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      - title: Ultra Low mass harmonic radar Transponders
+        content: A State-of-the-art design.
         image: /images/projects/converter.jpg
         featured:
           name: Demo
