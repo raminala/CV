@@ -3,7 +3,7 @@ author: Gurusabarish
 date: "2022-12-09T19:53:33+05:30"
 description: ""
 draft: true
-image: /images/mathjax.png
+image: /images/ramin.jpg
 mathjax: true
 tags:
 - Markdown syntax
