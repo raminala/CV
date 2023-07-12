@@ -316,8 +316,8 @@ params:
           - "Radar"
           - "Transponder"
         links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+#          - icon: fab fa-github
+#            url: https://github.com/gurusabarish/converter
 
 #      - title: Hugo Profile V2
 #        content: A clean and simple Hugo template for personal portfolio and blog.
