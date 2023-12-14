@@ -148,9 +148,11 @@ params:
     title: "About Me"
     image: "/images/ramin.jpg"
     content: |-
-      I am an Eletrical Engieer with a passion for data science. I have a background in RF and Microwave engineering, and I have a strong interest in the intersection of technologies. I am currently pursuing my Ph.D. at [University of New Brunswick](https://www.unb.ca/) in Fredericton, Canada. 
-
-      I am currently preparing to defend my Ph.D. Thesis.
+      I am an electrical engineer with eight years of industrial experience spanning from 2010 to 2019. Subsequently, I joined the [University of New Brunswick](https://www.unb.ca/) in Fredericton, Canada as a Ph.D. student and research assistant while also serving as a teaching assistant.
+      
+      My work experience primarily revolves around the design, simulation, and successfully building and trobuleshooting of various Electronics and microwave devices and antennas. I possess extensive expertise in both passive and active devices across a broad frequency range, from DC to 26 GHz. This includes, but is not limited to, superheterodyne receivers and transmitters, microwave passive devices (filters, power dividers, directional couplers, and duplexers), microwave active devices (power amplifiers, frequency synthesizers), and electronic circuits (voltage regulators, power amplifier bias controllers). I have a comprehensive background in microwave/RF engineering, encompassing 3D modeling, numerical modeling, and statistical methods.
+      
+      Throughout my doctoral studies, I acquired valuable experience in radar systems and data analysis. I successfully defended my Ph.D. and am actively seeking employment opportunities.
     skills:
       enable: true
       title: "Here are a few Softeare I've been working with:"
