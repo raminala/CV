@@ -202,7 +202,7 @@ params:
       - job: "RF and Microwave Engineer"
         company: "Bakhtar"
       #   companyUrl: "https://example.com"
-        date: "2010 to 2014"
+        date: "2016 to 2017"
         featuredLink:
           enable: false
           url: "https://example.com"
