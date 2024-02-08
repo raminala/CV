@@ -200,7 +200,7 @@ params:
           - duty 2.
 
       - job: "RF and Microwave Engineer"
-        company: "OTS"
+        company: "Bakhtar"
       #   companyUrl: "https://example.com"
         date: "2010 to 2014"
         featuredLink:
