@@ -177,7 +177,7 @@ params:
       - job: "Senior RF Designer"
         company: "Iranian Space Research Center"
       #  companyUrl: ""
-        date: "2016 to 2018"
+        date: "2017 to 2018"
         featuredLink:
           enable: false
          # name: "View the project"
