@@ -203,19 +203,19 @@ params:
 
     
       - job: "RF Engineer"
-        company: "Bakhtar"
+        company: "Ertebatat Baregheh Pardis"
       #   companyUrl: "https://example.com"
-        date: "2016 to 2017"
+        date: "2014 to 2016"
         featuredLink:
           enable: false
           url: "https://example.com"
         info:
           enable: true
         content: |
-          In OTS I ...
+          I was the project manager responsible for the RF section of a wideband Superheterodyne receiver operating from 8 to 18 GHz. Additionally, I designed antennas with various configurations and structures. In this capacity, I  
 
-          - duty 1.
-          - duty 2.
+          - designed, supervised the construction, performed RF tests, and troubleshot the unit until achieving the desired results.
+          - designed and supervised the construction of a wideband log-periodic antenna and performed antenna measurements, achieving excellent performance from 800 MHz to 5 GHz.
 
     
 
