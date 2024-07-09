@@ -174,7 +174,7 @@ params:
     enable: true
    # title: "Custom Name"
     items:
-      - job: "Senior RF Designer"
+      - job: "RF Design Engineer"
         company: "Iranian Space Research Center"
       #  companyUrl: ""
         date: "2017 to 2018"
