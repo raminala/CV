@@ -196,10 +196,8 @@ params:
         info:
           enable: true
         content: |
-          In OTS I ...
+          I was working on the power amplifier at the 9.2 to 9.6 GHz. My duty was designing power combiner power of 32 power amplifiers.
 
-          - duty 1.
-          - duty 2.
 
     
       - job: "RF Engineer"
