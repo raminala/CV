@@ -202,6 +202,23 @@ params:
           - duty 2.
 
     
+      - job: "Microwave Engineer"
+        company: "Bakhtar"
+      #   companyUrl: "https://example.com"
+        date: "2016 to 2017"
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+        info:
+          enable: true
+        content: |
+          In OTS I ...
+
+          - duty 1.
+          - duty 2.
+
+    
+
 
   # Education
   education:
