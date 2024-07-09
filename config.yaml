@@ -185,6 +185,7 @@ params:
         content: "I worked as part of a team to design a KU band transponder with space-qualified specifications. My responsibilities included designing, testing, and troubleshooting both active and passive components. For active RF parts, the project initially used components with military specifications instead of space-grade components. I worked on both PLLs and power amplifiers. As for passive devices, I designed, built, and tested two microwave filters with high power handling capability."
 
       
+
       - job: "Microwave Engineer"
         company: "Bakhtar"
       #   companyUrl: "https://example.com"
@@ -200,20 +201,7 @@ params:
           - duty 1.
           - duty 2.
 
-    - job: "RF Engineer"
-        company: "Ertebatat Baregheh Pardis"
-       # companyUrl: "https://www.linkedin.com/company/baregheh/?originalSubdomain=ir"
-        date: "2014 to 2016"
-        featuredLink:
-          enable: false
-          url: "https://example.com"
-        info:
-          enable: true
-        content: |
-          In Ertebatat Baregheh Pardis I ...
-
-          - duty 1.
-          - duty 2.
+    
 
   # Education
   education:
