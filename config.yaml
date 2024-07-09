@@ -202,7 +202,7 @@ params:
           - duty 2.
 
     
-      - job: "Microwave Engineer"
+      - job: "RF Engineer"
         company: "Bakhtar"
       #   companyUrl: "https://example.com"
         date: "2016 to 2017"
