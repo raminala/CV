@@ -196,7 +196,7 @@ params:
         info:
           enable: true
         content: |
-         I worked on a power amplifier operating from 9.2 to 9.6 GHz. My duty was to design a power combiner to combine output power of 32 power amplifiers. Due to limited bandwidth, specifications was tough.
+          - I worked on a power amplifier operating from 9.2 to 9.6 GHz. My duty was to design a power combiner to combine the output power of 32 power amplifiers. Although the bandwidth was narrow, the specifications, such as expected return loss and module size, were challenging.
 
     
       - job: "RF Engineer"
