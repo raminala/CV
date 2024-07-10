@@ -12,3 +12,7 @@ images:
 layout: gallery
 title: Image Gallery
 ---
+
+
+
+<!-- This section provides an overview of the project -->

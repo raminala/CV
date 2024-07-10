@@ -198,7 +198,7 @@ params:
         content: |
           - I worked on a power amplifier operating from 9.2 to 9.6 GHz. My duty was to design a power combiner to combine the output power of 32 power amplifiers. Although the bandwidth was narrow, the specifications, such as expected return loss and module size, were challenging.
           - Another part of my job involved testing and debugging previously manufactured transceivers operating at a frequency range of 300 MHz to 1 GHz.
-          - I also designed a horn antenna for the 9.2 to 9.6 GHz system.
+          - I also designed a horn antenna for the 9.2 to 9.6 GHz system, as well as several microwave filters for different frequency ranges.
     
       - job: "RF Engineer"
         company: "Ertebatat Baregheh Pardis"
