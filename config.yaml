@@ -181,8 +181,8 @@ params:
         featuredLink:
           enable: false
          # name: "View the project"
-         # url: "https://example.com"
-        content: "aaa."
+          url: "https://nbcc.ca/campuses/saint-john"
+        content: "I am working as instructor."
 
       
 
