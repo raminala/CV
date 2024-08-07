@@ -178,7 +178,7 @@ params:
         company: "NBCC"
       #  companyUrl: ""
         date: "2024 to current"
-        featuredLink:
+        featuredLink1:
           enable: True
          # name: "View the project"
           url: "https://nbcc.ca/campuses/saint-john"
