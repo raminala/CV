@@ -179,7 +179,7 @@ params:
       #  companyUrl: ""
         date: "2024 to current"
         featuredLink:
-          enable: false
+          enable: True
          # name: "View the project"
           url: "https://nbcc.ca/campuses/saint-john"
         content: "I am working as instructor."
