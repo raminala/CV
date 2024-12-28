@@ -194,9 +194,9 @@ params:
           enable: false
          # name: "View the project"
          # url: "https://example.com"
-        content: "I worked as part of a team to design a KU band transponder with space-qualified specifications. My responsibilities included designing, testing, and troubleshooting both active and passive components. For active RF parts, the project initially used components with military specifications instead of space-grade components. I worked on both PLLs and power amplifiers. As for passive devices, I designed, built, and tested two microwave filters with high power handling capability."
+        content: "0I worked as part of a team to design a KU band transponder with space-qualified specifications. My responsibilities included designing, testing, and troubleshooting both active and passive components. For active RF parts, the project initially used components with military specifications instead of space-grade components. I worked on both PLLs and power amplifiers. As for passive devices, I designed, built, and tested two microwave filters with high power handling capability."
 
-      
+      #I worked as part of a team to design a KU band transponder with space-qualified specifications. My responsibilities included designing, testing, and troubleshooting both active and passive components. For active RF parts, the project initially used components with military specifications instead of space-grade components. I worked on both PLLs and power amplifiers. As for passive devices, I designed, built, and tested two microwave filters with high power handling capability.
 
       - job: "Microwave Engineer"
         company: "Bakhtar"
